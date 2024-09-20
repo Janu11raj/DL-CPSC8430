@@ -3,7 +3,7 @@ This repository contains Deep Learning Course (CPSC-8430)-Homework 1
 All the assignment tasks are performed on jupyter notebooks and saved in .ipynb files, which has all the required packages setup in the environment and run the cells in the file from top to bottom.
 Report: Reports folder contains the report for this assignment in PDF format.
 
-# # Homework-1:
+## Homework-1:
 1.Deep vs. Shallow
     1.1 Simulate a Function
     1.1 Train on Actual Tasks using shallow and deep models 
